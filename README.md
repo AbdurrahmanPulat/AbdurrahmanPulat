@@ -13,7 +13,7 @@ I want to assume the responsibility required by the position with curiosity and 
 passionate about building software products that matter and make an impact. I'm curious about test automation, Java, C#,
 Javascript, Python, Selenium WebDriver, TestNG, Gauge, Junit, Nunit, Git, Jira, and Maven, I have information about, and
 rather frequently used. I am currently working on the Java programming language and selenium framework. I can test any application or website. <br />
-<p><a href="https://abdurrahmanpulat.github.io/MyPortfolio/" target="_blank">Check my website!</a>
+
   
 ### Contact with me via these platforms! 
   <a href="https://www.linkedin.com/in/abdurrahman-p%C3%BClat-519845203/" target="_blank" rel="nofollow"><img alt="Abdurrahman's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
