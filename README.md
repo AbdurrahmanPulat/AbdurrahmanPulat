@@ -8,7 +8,11 @@
 
 # Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" height="30px"/>
 
-<p> Hi, I'm Abdurrahman. I'm a senior student of software engineering.I received my bachelor's degree from Fırat University. My goal is to become a competent software engineer who specializes in Front-end and Back-end parts and can test the code. For this purpose, I am currently training and improving myself in React and .net. I am also working on Taiko and Gauge in the Test department. I can test any application or website. <br />
+<p> Hi, I'm Abdurrahman.I would like to state that I am extremely selfless and enthusiastic about being effective and fast in business life and that
+I want to assume the responsibility required by the position with curiosity and excitement. I'm a test automation enthusiast,
+passionate about building software products that matter and make an impact. I'm curious about test automation, Java, C#,
+Javascript, Python, Selenium WebDriver, TestNG, Gauge, Junit, Nunit, Git, Jira, and Maven, I have information about, and
+rather frequently used. I am currently working on the Java programming language and selenium framework. I can test any application or website. <br />
 <p><a href="https://abdurrahmanpulat.github.io/MyPortfolio/" target="_blank">Check my website!</a>
   
 ### Contact with me via these platforms! 
